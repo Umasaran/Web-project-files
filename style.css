@@ -137,7 +137,7 @@ display: none;
 
 .slider{
   min-height: calc(60vh - 50px);
-  background:url('../images/240_F_96977079_sOA7d85McfsJIGzo0jtSwOOefnTA1tgk.jpg') center/cover no-repeat;
+  background:url('images/240_F_96977079_sOA7d85McfsJIGzo0jtSwOOefnTA1tgk.jpg') center/cover no-repeat;
   position: relative;
 }
 .brand-banner{
